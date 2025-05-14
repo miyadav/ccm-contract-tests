@@ -3,7 +3,7 @@ package kind
 import (
     "testing"
 
-    "github.com/yourname/ccm-contract-tests/suite"
+    "github.com/miyadav/ccm-contract-tests/suite"
     kindprovider "sigs.k8s.io/cloud-provider-kind/pkg/cloudprovider"
 
     . "github.com/onsi/ginkgo/v2"
